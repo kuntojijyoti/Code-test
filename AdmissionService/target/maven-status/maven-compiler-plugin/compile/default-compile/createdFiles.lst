@@ -1,0 +1,7 @@
+com\zensar\AdmisionServiceApplication.class
+com\zensar\model\Employee.class
+com\zensar\model\EmployeeList.class
+com\zensar\model\Disease.class
+com\zensar\model\Patient.class
+com\zensar\model\DiseasesList.class
+com\zensar\resource\AdmissionsResource.class
